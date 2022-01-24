@@ -33,5 +33,5 @@ The purpose of this research is to develop and design an effective and efficient
 2. Accuracy
 3. Classification Report
 4. Confusion Matrix
-
+5. Area under curve
 
